@@ -7,9 +7,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-01-01 18:47:43 +0000",
+      "minecraft:river": "2025-01-01 18:51:00 +0000",
+      "minecraft:stony_shore": "2025-01-01 18:48:56 +0000",
+      "minecraft:cold_ocean": "2025-01-01 18:48:58 +0000",
+      "minecraft:ocean": "2025-01-01 18:49:06 +0000",
       "minecraft:plains": "2025-01-01 18:06:26 +0000"
     },
     "done": false
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-01-01 18:47:56 +0000"
+    },
+    "done": true
   },
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
@@ -47,6 +58,12 @@
     },
     "done": true
   },
+  "bettermcdonaldsmod:recipes/food/snack_salad": {
+    "criteria": {
+      "has_carrot": "2025-01-01 18:50:16 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-01-01 18:43:47 +0000"
@@ -68,6 +85,12 @@
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2025-01-01 18:43:47 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-01-01 18:50:12 +0000"
     },
     "done": true
   },
@@ -98,6 +121,12 @@
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-01-01 18:43:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-01 18:46:42 +0000"
     },
     "done": true
   },
@@ -247,6 +276,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-01 18:47:56 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-01-01 18:43:47 +0000"
@@ -343,6 +378,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-01-01 18:47:56 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
       "has_items": "2025-01-01 18:43:47 +0000"
@@ -364,6 +405,18 @@
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-01-01 18:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-01 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-01-01 18:47:56 +0000"
     },
     "done": true
   },
@@ -419,6 +472,12 @@
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
       "has_items": "2025-01-01 18:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-01 18:50:16 +0000"
     },
     "done": true
   },
